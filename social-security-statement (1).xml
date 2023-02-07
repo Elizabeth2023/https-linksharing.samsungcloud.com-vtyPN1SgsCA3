@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osss:OnlineSocialSecurityStatementData xmlns:osss="http://ssa.gov/osss/schemas/2.0">
+    <osss:FileCreationDate>2023-02-06T17:08:41.537-05:00</osss:FileCreationDate>
+    <osss:UserInformation>
+        <osss:Name>ELIZABETH M. SHAFFER</osss:Name>
+        <osss:DateOfBirth>1985-03-27</osss:DateOfBirth>
+    </osss:UserInformation>
+    <osss:EstimatedBenefits>
+        <osss:OneTimeDeathBenefit>255</osss:OneTimeDeathBenefit>
+    </osss:EstimatedBenefits>
+    <osss:EarningsRecord>
+        <osss:Earnings startYear="2002" endYear="2002">
+            <osss:FicaEarnings>2299</osss:FicaEarnings>
+            <osss:MedicareEarnings>2299</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2003" endYear="2003">
+            <osss:FicaEarnings>307</osss:FicaEarnings>
+            <osss:MedicareEarnings>307</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2004" endYear="2004">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2005" endYear="2005">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2006" endYear="2006">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2007" endYear="2007">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2008" endYear="2008">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2009" endYear="2009">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2010" endYear="2010">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2011" endYear="2011">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2012" endYear="2012">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2013" endYear="2013">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2014" endYear="2014">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2015" endYear="2015">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2016" endYear="2016">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2017" endYear="2017">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2018" endYear="2018">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2019" endYear="2019">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2020" endYear="2020">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2021" endYear="2021">
+            <osss:FicaEarnings>0</osss:FicaEarnings>
+            <osss:MedicareEarnings>0</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:Earnings startYear="2022" endYear="2022">
+            <osss:FicaEarnings>-1</osss:FicaEarnings>
+            <osss:MedicareEarnings>-1</osss:MedicareEarnings>
+        </osss:Earnings>
+        <osss:FicaTaxTotalEmployer>161</osss:FicaTaxTotalEmployer>
+        <osss:FicaTaxTotalIndividual>161</osss:FicaTaxTotalIndividual>
+        <osss:MedicareTaxTotalEmployer>37</osss:MedicareTaxTotalEmployer>
+        <osss:MedicareTaxTotalIndividual>37</osss:MedicareTaxTotalIndividual>
+    </osss:EarningsRecord>
+</osss:OnlineSocialSecurityStatementData>
